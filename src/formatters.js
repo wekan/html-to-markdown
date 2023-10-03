@@ -188,8 +188,10 @@ function addHashes (count) {
   count = Number(count);
   var string = '';
   for(var x=0;x<count;x++){
-    string += '#'
+    string += '#';
   }
+  // Add space after hashes, so that it views correctly
+  string += ' ';
   return string;
 }
 
