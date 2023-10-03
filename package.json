@@ -1,6 +1,6 @@
 {
   "name": "@wekanteam/html-to-markdown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "html to markdown converter with zero dependencies",
   "main": "index.js",
   "directories": {
