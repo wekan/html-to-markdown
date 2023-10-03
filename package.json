@@ -1,6 +1,6 @@
 {
-  "name": "html-to-markdown",
-  "version": "1.0.0",
+  "name": "@wekanteam/html-to-markdown",
+  "version": "1.0.1",
   "description": "html to markdown converter with zero dependencies",
   "main": "index.js",
   "directories": {
@@ -14,14 +14,14 @@
     "html-to-markdown",
     "markdown"
   ],
-  "author": "amanvirk",
+  "author": "xet7",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thetutlage/html-to-markdown.git"
+    "url": "git+https://github.com/wekan/html-to-markdown.git"
   },
   "bugs": {
-    "url": "https://github.com/thetutlage/html-to-markdown/issues"
+    "url": "https://github.com/wekan/html-to-markdown/issues"
   },
-  "homepage": "https://github.com/thetutlage/html-to-markdown#readme"
+  "homepage": "https://github.com/wekan/html-to-markdown#readme"
 }

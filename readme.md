@@ -20,14 +20,14 @@ Html to markdown converter is a dependency free converter which replaces html wi
 ## Converting Html Documents
 
 ```javascript
-var converter = require('html-to-markdown');
-var markdown = converter.convert('<h2> Happy Journey </h2>');
+var converter = require('@wekanteam/html-to-markdown');
+var markdown = converter.convert('<h2>Happy Journey</h2>');
 ```
 
 ## Extending to add your own formatters.
 
 ```javascript
-var converter = require('html-to-markdown');
+var converter = require('@wekanteam/html-to-markdown');
 converter.use(function (html) {
   // making required changes
   // and return new html
